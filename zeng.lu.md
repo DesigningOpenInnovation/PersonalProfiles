@@ -1,0 +1,1 @@
+Hi, I'm Lu Zeng from Fashion Design and it is my first year of MA degree.Nice to meet you!
