@@ -1,4 +1,4 @@
 PersonalProfiles
 ================
 
-a test repository for storing every personal bio
+Eero is an IDBM student.
